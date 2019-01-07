@@ -1,0 +1,1974 @@
+[RemoteTestNG] detected TestNG version 6.14.2
+Dec 26, 2018 7:17:49 PM com.relevantcodes.extentreports.ExtentReports loadConfig
+WARNING: Unable to perform report configuration. The file E:\Avishek\SeleniumProjects\TopStar\ReportsConfig.xml was not found.
+Starting ChromeDriver 2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab) on port 2810
+Only local connections are allowed.
+Dec 26, 2018 7:17:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Avishek
+E:\Avishek\SeleniumProjects\TopStar
+DIRECTOR button name is present
+CINEMATOGRAPHER button name is present
+PRODUCER button name is present
+ACTOR button name is present
+MUSICIAN button name is present
+PHOTOGRAPHER button name is present
+MODEL button name is present
+Avishek
+E:\Avishek\SeleniumProjects\TopStar
+http://103.94.84.77:7085/
+Top Star Club - Home
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><style class="vjs-styles-defaults">
+      .video-js {
+        width: 300px;
+        height: 150px;
+      }
+
+      .vjs-fluid {
+        padding-top: 56.25%
+      }
+    </style>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="refresh" content="1200;url='/SessionExpiryPage/'" />
+
+    <title>Top Star Club - Home</title>
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+    <link href="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" type="text/css" />          
+    <link href="/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="../../../css/main.css" rel="stylesheet" type="text/css" />
+    <link href="/css/responsive.css" rel="stylesheet" type="text/css" />
+    <link href="/css/owl.carousel.min.css" rel="stylesheet" type="text/css" />
+    <link href="/css/owl.theme.default.min.css" rel="stylesheet" type="text/css" />  
+    <link href="/css/jquery.fancybox.min.css" rel="stylesheet" type="text/css" />
+    <link href="/css/hover.css" rel="stylesheet" type="text/css" />  
+
+    <!--video-->
+    <link href="/css/form.css" rel="stylesheet" type="text/css" />
+    <!--fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Anton&amp;subset=latin-ext,vietnamese" rel="stylesheet" />
+    <script src="http://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <!--video-->
+    <link href="http://vjs.zencdn.net/6.2.8/video-js.css" rel="stylesheet" />
+    <link href="http://cdn.rawgit.com/davidstutz/bootstrap-multiselect/master/dist/css/bootstrap-multiselect.css" rel="stylesheet" type="text/css" />
+    <link href="/css/jquery-labelauty.css" rel="stylesheet" />
+</head>
+<body class="103.94.84.77:7085">    
+
+
+
+
+<!--top bar links-->
+<section class="top_br">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6">
+                <div class="tp_social">
+                    <ul>
+                        <li><a href="tel:+044 7949 3957"><span><i class="fa fa-phone"></i></span>044 7949 3957</a></li>
+                        <li><a href="mailto:nantha@roycermade.com"><span><i class="fa fa-envelope"></i></span>nantha@roycermade.com</a></li>
+
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6">
+                <div class="h_right">
+                    <!--right facebook social media-->
+                    <div class="top_social_rit social">
+                        <ul>
+                            <li><a href="http://facebook.com" target="_blank"><i class="fa fa-facebook"></i> </a></li>
+                            <li><a href="http://plus.google.com" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                            <li><a href="http://twitter.com" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="http://in.pinterest.com" target="_blank"><i class="fa fa-pinterest-p"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="top_social_rit">
+                        <ul>
+                                <li><a href="#" data-toggle="modal" data-target="#basicModal">join free <span><i class="fa fa-angle-double-right"></i></span></a></li>
+                                <li><a href="/Login/">Log In <span><i class="fa fa-angle-double-right"></i></span></a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--end here top barlinks-->
+<!--navbar here-->
+<header>
+    <section class="container-fluid my_nav">
+        <nav class="navbar navbar-inverse">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/"><img src="/images/logo.png" class="img-responsive" /></a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="myNavbar">
+                    <ul class="nav navbar-nav">
+                        <li id="mnuHome" class="highlighted"><a href="/">Home</a></li>
+                        <li id="mnuAboutUs"><a href="/AboutUs/" class="active">About Us</a></li>
+                        <li id="mnuTalentDirectory"><a href="/TalentDirectory/">Talent Directory</a></li>
+                        <li id="mnuEmployeeList"><a href="/EmployeeList/">Employers</a></li>
+                        <li id="mnuAuditionJobs"><a href="/AuditionJobs/">Auditions &amp; Jobs</a></li>
+                        <li id="mnuContactUs"><a href="/ContactUs/">Contact Us</a></li>
+                            <li id="mnuPostAJob"><a href="/Login/" onclick="gotoPostAJobPage('PostAJobNavBar');">Post A Job</a></li>
+                                            </ul>
+                </div>
+
+                <!--post a job-->
+                <!--<div class="dropdown post_job">
+                    <button class="btn dropdown-toggle" type="button">
+                        <a href="/PostAJob/">post a job</a>
+                    </button>
+                </div>-->
+            </div>
+
+        </nav>
+    </section>
+
+    <script>
+        function disableBackButton() {
+            window.history.forward();
+        }
+        setTimeout("disableBackButton()", 0);
+
+        function logOut() {
+            $.ajax({
+                method: "POST",
+                contentType: "application/json; charset=utf-8",
+                url: "/umbraco/Surface/Registration/Logout",
+                data: "{}",
+                success: function (response) {
+                    disableBackButton();
+                },
+                error: function (response) {
+                    //alert(response.responseText);
+                }
+            });
+        }
+
+        function gotoPostAJobPage(navbarValue) {
+            $.ajax({
+                method: "POST",
+                contentType: "application/json, charset=utf-8",
+                url: "/umbraco/Surface/PostAJob/GetPostAJobValue",
+                data: "{navbarValue: '" + navbarValue + "'}",
+                success: function (result) {
+
+                },
+                error: function (response) {
+                    //alert('Unable to Get Review Value');
+                }
+            });            
+        }
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            $("#myNavbar &gt; ul &gt; li").removeClass("highlighted");
+            $("#myFootbar &gt; ul &gt; li").removeClass("active");
+        });
+    </script>
+</header>
+
+
+    
+
+
+
+<link href="/css/review.css" rel="stylesheet" />
+
+<section class="baner_part">
+    <div class="container">
+        <div class="row">
+            <div class="baner_text">
+               <div class="bnr-rst_bot"><span class="register_now">Register Now</span></div>
+
+                <!--baner caption-->
+                <div class="ban_capton">
+
+                    <img src="/media/1001/baner_txt.png" class="img-responsive" />
+                    <h2>BEST TALENT HUNTER IN INDIA</h2>
+                    <p>Digital India</p>
+                </div>
+
+                <!--baner form-->
+                <div class="baner_form">
+                    <ul>
+                        <li class="category">
+                            <select class="form-control" id="ddlCategory">
+                                <option>Category</option>
+                                    <option>DIRECTOR</option>
+                                    <option>CINEMATOGRAPHER</option>
+                                    <option>PRODUCER</option>
+                                    <option>Actor</option>
+                                    <option>Musician</option>
+                                    <option>Photographer</option>
+                                    <option>Model</option>
+                            </select>
+                        </li>
+
+                        <li>
+                            <select class="form-control" id="ddlCountry" onchange="getAllCitiesByCountry(this.value);">
+                                <option>Country</option>
+                                
+                            <option value="INDIA">INDIA</option><option value="AUSTRALIA">AUSTRALIA</option><option value="CANADA">CANADA</option><option value="FRANCE">FRANCE</option><option value="USA">USA</option><option value="UK">UK</option></select>
+                        </li>
+
+                        <li>
+                            <select class="form-control" id="ddlCity">
+                                <option>City</option>
+                                
+                            </select>
+                        </li>
+
+                        
+
+                        <li class="sbmit">
+                            <button onclick="return goToTalentDirectoryPage();">Search <span class="pull-right"><i class="fa fa-search"></i></span></button>
+                        </li>
+                    </ul>
+                </div>
+
+
+                <!--baner right form-->
+                    <div class="right_form_search">
+                        <h3>JOIN FREE</h3>
+
+
+
+<form action="/" enctype="multipart/form-data" method="post"><input name="__RequestVerificationToken" type="hidden" value="J2L6Px7mvUH99v9m4AUbg0Igt298FZvnAtd9lMUEOcr6uO1rClR5lyYO68Bu7pH5PZQvM3FcvPNzW_NLU-nVvbLuidHEW6wUD1lgbmjxOK41" />    <div id="userDiv" style="display: none;">
+        <p id="loaderRegistrationText" class="loadingMSG">
+            Please wait while we confirm your Registration
+        </p>
+
+        <p id="successRegistrationText" class="loadingMSG">
+            <i class="fa fa-check" aria-hidden="true"></i>
+            We confirmed your Registration and sent details to your email
+        </p>
+
+        <i class="fa fa-spinner fa-spin fa-2x fa-fw load-icon loadingGF" id="userImage"></i>
+        <span class="sr-only">Loading...</span>
+    </div>
+    <div class="form-horizontal right_from">
+        <div class="form-group">
+            <label id="lblErrMsg" style="border: 1px solid red; padding: 2px 15px; font-size: 0.9vw; margin: 0px auto !important; text-align: center !important; width: 100% !important; background-color: rgb(255, 255, 255) !important; color: orangered !important; font-weight: 400 !important; display: none;"></label>            
+        </div>
+
+        <div class="form-group chooseCategory">
+            <label>User Types:</label>
+            <select id="ddlUserTypes" onchange="vanishErrMsg();" name="chkUserType">
+                <option>Choose Your Option</option>
+                <option>Find Work</option>
+                <option>Find Talent</option>
+            </select>
+        </div>
+
+        <div class="form-group chooseCategory">
+            <label>Categories:</label>
+            <select id="ddlCategories" onchange="vanishErrMsg();" name="chkInterest">
+                <option>Choose Your Option</option>
+                    <option>DIRECTOR</option>
+                    <option>CINEMATOGRAPHER</option>
+                    <option>PRODUCER</option>
+                    <option>Actor</option>
+                    <option>Musician</option>
+                    <option>Photographer</option>
+                    <option>Model</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <input autocomplete="off" id="UserName" name="userName" onkeypress="vanishErrMsg();" placeholder="User Name *" type="text" value="" />
+        </div>
+        <div class="form-group" style="display: none;">
+            <input value="UL000000028" autocomplete="off" id="Autogenerated LoginID" name="userLogin" onkeypress="vanishErrMsg();" placeholder="Login ID" readonly="true" type="text" />
+        </div>
+        <div class="form-group">
+            <input autocomplete="off" id="UserPassword" name="userPassword" onkeypress="vanishErrMsg();" placeholder="User Password *" type="password" value="" />
+        </div>
+        <div class="form-group">
+            <input autocomplete="off" id="UserEmail" name="userEmail" onblur="checkEmail();" onkeypress="vanishErrMsg();" placeholder="User Email *" style="text-transform: lowercase;" type="text" value="" />
+        </div>
+        <div class="form-group">
+            <div class="dte_ofbrth">
+                <p>Date of Birth:</p>
+                <ul>
+                    <li><input type="number" placeholder="dd" name="dayBirth" min="1" max="31" id="DayNo" onkeypress="vanishErrMsg(); vanishEmailDOB();" /></li>
+                    <li><input type="number" placeholder="mm" name="monthBirth" min="1" max="12" id="MonthNo" onkeypress="vanishErrMsg(); vanishEmailDOB();" /></li>
+                    <li><input type="number" placeholder="yyyy" name="yearBirth" min="1980" max="2099" id="YearNo" onkeypress="vanishErrMsg(); vanishEmailDOB();" /></li>
+                </ul>
+            </div>
+        </div>
+        <div class="form-group">
+            <input type="checkbox" name="termCondition" checked="checked" disabled="disabled" /><span class="span_txt">I agree to the Terms</span><br />
+            <input type="submit" value="REGISTER NOW" id="btnSubmit" />
+        </div>
+    </div>
+<input name="ufprt" type="hidden" value="7F2B276E90FBAFE086F8FF6CFFDAD8BD076E3178B7D68ED4161F3FD41C670489A80EBD0DF7D3FCC0D5EEA253D4A4FFBEE2286E82184E8B7567EA7FEA25710F85066AA64943583EDCFACAEC5A2B6EA56CB2024C6F62DF1E301D3BBBDE95BA28DA5E06B5CA2E169AEFEA344494087EBD2F05290A0BA2DE7538404ACBA5C10492354E71EE54CFDB009015DA05CA8EE2578270A2E956AE24C3AB02C324365FCB09883A29375ED030B76622A56AB213C5E733" /></form>
+                    </div>
+            </div>
+        </div>
+
+     </div>
+</section>
+<!--start banner-->
+<!--Talent directory-->
+<section>
+    <div class="wrap">
+        <div class="header_txt">
+            <h2><span>TALENT DIRECTORY</span> </h2>
+        </div>
+        <div class="all_btn">
+            <ul>
+
+
+                    <li onclick="gotoTalentDirectoryPage2('DIRECTOR');">
+                        <a href="/TalentDirectory/">
+                            DIRECTOR
+                        </a>
+                    </li>
+                    <li onclick="gotoTalentDirectoryPage2('CINEMATOGRAPHER');">
+                        <a href="/TalentDirectory/">
+                            CINEMATOGRAPHER
+                        </a>
+                    </li>
+                    <li onclick="gotoTalentDirectoryPage2('PRODUCER');">
+                        <a href="/TalentDirectory/">
+                            PRODUCER
+                        </a>
+                    </li>
+                    <li onclick="gotoTalentDirectoryPage2('Actor');">
+                        <a href="/TalentDirectory/">
+                            Actor
+                        </a>
+                    </li>
+                    <li onclick="gotoTalentDirectoryPage2('Musician');">
+                        <a href="/TalentDirectory/">
+                            Musician
+                        </a>
+                    </li>
+                    <li onclick="gotoTalentDirectoryPage2('Photographer');">
+                        <a href="/TalentDirectory/">
+                            Photographer
+                        </a>
+                    </li>
+                    <li onclick="gotoTalentDirectoryPage2('Model');">
+                        <a href="/TalentDirectory/">
+                            Model
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</section>
+<!--Talent directory-->
+<!--our services-->
+<section class="our_ser">
+    <div class="container">
+        <div class="row">
+            <div class="iner_header">
+                <h2><span>SERVICES</span></h2>
+            </div>
+
+            <!--start slider-->
+            
+
+            <div class="owl-carousel owl-theme owl-loaded owl-drag" id="ou_servs">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+
+            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 2065px;"><div class="owl-item active" style="width: 285px; margin-right: 10px;"><div class="item">
+                            <div class="sldier_iner_ban">
+                                <ul>
+                                    <li>
+                                        <a href="/ServiceList/">
+                                            <figure><img src="/images/talent2.jpg" class="img-responsive" style="width:100%; height:100%" /></figure>
+
+                                            <figcaption>
+                                                <h2>Musician</h2>
+                                                <h3>3 Jobs</h3>
+                                                <p>talent2.jpg</p>
+                                            </figcaption>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div></div><div class="owl-item active" style="width: 285px; margin-right: 10px;"><div class="item">
+                            <div class="sldier_iner_ban">
+                                <ul>
+                                    <li>
+                                        <a href="/ServiceList/">
+                                            <figure><img src="/images/talent3.jpg" class="img-responsive" style="width:100%; height:100%" /></figure>
+
+                                            <figcaption>
+                                                <h2>Cinematographer</h2>
+                                                <h3>0 Jobs</h3>
+                                                <p>talent3.jpg</p>
+                                            </figcaption>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div></div><div class="owl-item active" style="width: 285px; margin-right: 10px;"><div class="item">
+                            <div class="sldier_iner_ban">
+                                <ul>
+                                    <li>
+                                        <a href="/ServiceList/">
+                                            <figure><img src="/images/talent4.jpg" class="img-responsive" style="width:100%; height:100%" /></figure>
+
+                                            <figcaption>
+                                                <h2>Photographer</h2>
+                                                <h3>1 Jobs</h3>
+                                                <p>talent4.jpg</p>
+                                            </figcaption>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div></div><div class="owl-item active" style="width: 285px; margin-right: 10px;"><div class="item">
+                            <div class="sldier_iner_ban">
+                                <ul>
+                                    <li>
+                                        <a href="/ServiceList/">
+                                            <figure><img src="/images/talent6.jpg" class="img-responsive" style="width:100%; height:100%" /></figure>
+
+                                            <figcaption>
+                                                <h2>Model</h2>
+                                                <h3>1 Jobs</h3>
+                                                <p>talent6.jpg</p>
+                                            </figcaption>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div></div><div class="owl-item" style="width: 285px; margin-right: 10px;"><div class="item">
+                            <div class="sldier_iner_ban">
+                                <ul>
+                                    <li>
+                                        <a href="/ServiceList/">
+                                            <figure><img src="/images/talent7.jpg" class="img-responsive" style="width:100%; height:100%" /></figure>
+
+                                            <figcaption>
+                                                <h2>Producer</h2>
+                                                <h3>2 Jobs</h3>
+                                                <p>talent7.jpg</p>
+                                            </figcaption>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div></div><div class="owl-item" style="width: 285px; margin-right: 10px;"><div class="item">
+                            <div class="sldier_iner_ban">
+                                <ul>
+                                    <li>
+                                        <a href="/ServiceList/">
+                                            <figure><img src="/images/talent8.jpg" class="img-responsive" style="width:100%; height:100%" /></figure>
+
+                                            <figcaption>
+                                                <h2>Director</h2>
+                                                <h3>2 Jobs</h3>
+                                                <p>talent8.jpg</p>
+                                            </figcaption>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div></div><div class="owl-item" style="width: 285px; margin-right: 10px;"><div class="item">
+                            <div class="sldier_iner_ban">
+                                <ul>
+                                    <li>
+                                        <a href="/ServiceList/">
+                                            <figure><img src="/images/talent9.jpg" class="img-responsive" style="width:100%; height:100%" /></figure>
+
+                                            <figcaption>
+                                                <h2>Actor</h2>
+                                                <h3>1 Jobs</h3>
+                                                <p>talent9.jpg</p>
+                                            </figcaption>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev disabled"><i class="fa fa-chevron-left"></i></button><button type="button" role="presentation" class="owl-next"><i class="fa fa-chevron-right"></i></button></div><div class="owl-dots disabled"></div></div>
+
+            <!--view all-->
+            <p class="vew_al"><a href="/ServiceList/">View All <span><i class="fa fa-angle-double-right"></i></span></a></p>
+            <!--strat slider-->
+
+        </div>
+    </div>
+</section>
+<!--end our servicus-->
+<!--all slider part-->
+<section class="stries_blog">
+    <div class="container">
+        <div class="row">
+            <!--SUCCESS STORIES-->
+            <div class="col-md-4 col-sm-4">
+                <div class="stories_part">
+                    <h2><span>BLOG   </span></h2>
+
+                    <!--slider-->
+                    <div class="owl-carousel owl-theme owl-loaded owl-drag" id="stories">
+
+
+
+
+                            
+                            
+                            
+                            
+                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-740px, 0px, 0px); transition: all 0s ease 0s; width: 2960px;"><div class="owl-item cloned" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="stries_hover">
+                                    <figure>
+                                        <img src="/media/1085/latest_new.png?anchor=center&amp;mode=crop&amp;width=200&amp;height=200&amp;rnd=131861570330000000" class="img-responsive" alt="Latest Mike" onerror="this.src = '/content/img/no_image.gif';" />
+                                    </figure>
+                                    <figcaption>
+                                        <ul>
+                                                    <li><a href="http://facebook.com" target="_blank"><i class="fa fa-facebook"></i> </a></li>
+                                                    <li><a href="http://plus.google.com" target="_blank"><i class="fa fa-google-plus"></i> </a></li>
+                                                    <li><a href="http://twitter.com" target="_blank"><i class="fa fa-twitter"></i> </a></li>
+                                                    <li><a href="http://in.pinterest.com" target="_blank"><i class="fa fa-pinterest"></i> </a></li>
+
+                                        </ul>
+                                        <h5>Latest Mike</h5>
+                                    </figcaption>
+                                </div>
+                            </div></div><div class="owl-item cloned" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="stries_hover">
+                                    <figure>
+                                        <img src="/media/1086/soundsystem.jpg?anchor=center&amp;mode=crop&amp;width=200&amp;height=200&amp;rnd=131861571560000000" class="img-responsive" alt="Sound System" onerror="this.src = '/content/img/no_image.gif';" />
+                                    </figure>
+                                    <figcaption>
+                                        <ul>
+                                                    <li><a href="http://facebook.com" target="_blank"><i class="fa fa-facebook"></i> </a></li>
+                                                    <li><a href="http://plus.google.com" target="_blank"><i class="fa fa-google-plus"></i> </a></li>
+                                                    <li><a href="http://twitter.com" target="_blank"><i class="fa fa-twitter"></i> </a></li>
+                                                    <li><a href="http://in.pinterest.com" target="_blank"><i class="fa fa-pinterest"></i> </a></li>
+
+                                        </ul>
+                                        <h5>Sound System</h5>
+                                    </figcaption>
+                                </div>
+                            </div></div><div class="owl-item active" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="stries_hover">
+                                    <figure>
+                                        <img src="/media/1082/latest_02.jpg?anchor=center&amp;mode=crop&amp;width=200&amp;height=200&amp;rnd=131861568730000000" class="img-responsive" alt="Modern Mike" onerror="this.src = '/content/img/no_image.gif';" />
+                                    </figure>
+                                    <figcaption>
+                                        <ul>
+                                                    <li><a href="http://facebook.com" target="_blank"><i class="fa fa-facebook"></i> </a></li>
+                                                    <li><a href="http://plus.google.com" target="_blank"><i class="fa fa-google-plus"></i> </a></li>
+                                                    <li><a href="http://twitter.com" target="_blank"><i class="fa fa-twitter"></i> </a></li>
+                                                    <li><a href="http://in.pinterest.com" target="_blank"><i class="fa fa-pinterest"></i> </a></li>
+
+                                        </ul>
+                                        <h5>Modern Mike</h5>
+                                    </figcaption>
+                                </div>
+                            </div></div><div class="owl-item" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="stries_hover">
+                                    <figure>
+                                        <img src="/media/1083/ancientmike.jpg?anchor=center&amp;mode=crop&amp;width=200&amp;height=200&amp;rnd=131861569880000000" class="img-responsive" alt="Old Mike" onerror="this.src = '/content/img/no_image.gif';" />
+                                    </figure>
+                                    <figcaption>
+                                        <ul>
+                                                    <li><a href="http://facebook.com" target="_blank"><i class="fa fa-facebook"></i> </a></li>
+                                                    <li><a href="http://plus.google.com" target="_blank"><i class="fa fa-google-plus"></i> </a></li>
+                                                    <li><a href="http://twitter.com" target="_blank"><i class="fa fa-twitter"></i> </a></li>
+                                                    <li><a href="http://in.pinterest.com" target="_blank"><i class="fa fa-pinterest"></i> </a></li>
+
+                                        </ul>
+                                        <h5>Old Mike</h5>
+                                    </figcaption>
+                                </div>
+                            </div></div><div class="owl-item" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="stries_hover">
+                                    <figure>
+                                        <img src="/media/1085/latest_new.png?anchor=center&amp;mode=crop&amp;width=200&amp;height=200&amp;rnd=131861570330000000" class="img-responsive" alt="Latest Mike" onerror="this.src = '/content/img/no_image.gif';" />
+                                    </figure>
+                                    <figcaption>
+                                        <ul>
+                                                    <li><a href="http://facebook.com" target="_blank"><i class="fa fa-facebook"></i> </a></li>
+                                                    <li><a href="http://plus.google.com" target="_blank"><i class="fa fa-google-plus"></i> </a></li>
+                                                    <li><a href="http://twitter.com" target="_blank"><i class="fa fa-twitter"></i> </a></li>
+                                                    <li><a href="http://in.pinterest.com" target="_blank"><i class="fa fa-pinterest"></i> </a></li>
+
+                                        </ul>
+                                        <h5>Latest Mike</h5>
+                                    </figcaption>
+                                </div>
+                            </div></div><div class="owl-item" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="stries_hover">
+                                    <figure>
+                                        <img src="/media/1086/soundsystem.jpg?anchor=center&amp;mode=crop&amp;width=200&amp;height=200&amp;rnd=131861571560000000" class="img-responsive" alt="Sound System" onerror="this.src = '/content/img/no_image.gif';" />
+                                    </figure>
+                                    <figcaption>
+                                        <ul>
+                                                    <li><a href="http://facebook.com" target="_blank"><i class="fa fa-facebook"></i> </a></li>
+                                                    <li><a href="http://plus.google.com" target="_blank"><i class="fa fa-google-plus"></i> </a></li>
+                                                    <li><a href="http://twitter.com" target="_blank"><i class="fa fa-twitter"></i> </a></li>
+                                                    <li><a href="http://in.pinterest.com" target="_blank"><i class="fa fa-pinterest"></i> </a></li>
+
+                                        </ul>
+                                        <h5>Sound System</h5>
+                                    </figcaption>
+                                </div>
+                            </div></div><div class="owl-item cloned" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="stries_hover">
+                                    <figure>
+                                        <img src="/media/1082/latest_02.jpg?anchor=center&amp;mode=crop&amp;width=200&amp;height=200&amp;rnd=131861568730000000" class="img-responsive" alt="Modern Mike" onerror="this.src = '/content/img/no_image.gif';" />
+                                    </figure>
+                                    <figcaption>
+                                        <ul>
+                                                    <li><a href="http://facebook.com" target="_blank"><i class="fa fa-facebook"></i> </a></li>
+                                                    <li><a href="http://plus.google.com" target="_blank"><i class="fa fa-google-plus"></i> </a></li>
+                                                    <li><a href="http://twitter.com" target="_blank"><i class="fa fa-twitter"></i> </a></li>
+                                                    <li><a href="http://in.pinterest.com" target="_blank"><i class="fa fa-pinterest"></i> </a></li>
+
+                                        </ul>
+                                        <h5>Modern Mike</h5>
+                                    </figcaption>
+                                </div>
+                            </div></div><div class="owl-item cloned" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="stries_hover">
+                                    <figure>
+                                        <img src="/media/1083/ancientmike.jpg?anchor=center&amp;mode=crop&amp;width=200&amp;height=200&amp;rnd=131861569880000000" class="img-responsive" alt="Old Mike" onerror="this.src = '/content/img/no_image.gif';" />
+                                    </figure>
+                                    <figcaption>
+                                        <ul>
+                                                    <li><a href="http://facebook.com" target="_blank"><i class="fa fa-facebook"></i> </a></li>
+                                                    <li><a href="http://plus.google.com" target="_blank"><i class="fa fa-google-plus"></i> </a></li>
+                                                    <li><a href="http://twitter.com" target="_blank"><i class="fa fa-twitter"></i> </a></li>
+                                                    <li><a href="http://in.pinterest.com" target="_blank"><i class="fa fa-pinterest"></i> </a></li>
+
+                                        </ul>
+                                        <h5>Old Mike</h5>
+                                    </figcaption>
+                                </div>
+                            </div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><i class="fa fa-chevron-left"></i></button><button type="button" role="presentation" class="owl-next"><i class="fa fa-chevron-right"></i></button></div><div class="owl-dots disabled"></div></div>
+
+                    <!--view all-->
+                    
+                    <p class="vew_al"><a href="/BlogPage/">View All <span><i class="fa fa-angle-double-right"></i></span></a></p>
+                </div>
+            </div>
+
+            <!--SUCCESS STORIES-->
+            <div class="col-md-4 col-sm-4">
+                <div class="stories_part">
+                    <h2><span>LATEST DIRECTORIES </span></h2>
+                </div>
+
+                <!--slider-->
+                <div class="owl-carousel owl-theme owl-loaded owl-drag" id="news">
+                                
+                                
+                                
+
+                <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-740px, 0px, 0px); transition: all 0s ease 0s; width: 2590px;"><div class="owl-item cloned" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="latest_hover">
+                                    <figure><img src="/images/TaylorSwift.jpg" class="img-responsive" style="border-radius: 50%;" /></figure>
+                                    <figcaption>
+                                        <div class="date_time">
+                                            <ul>
+                                                <li class="date_m">17</li>
+                                                <li class="time_m">Dec</li>
+                                            </ul>
+                                        </div>
+
+                                        <div class="trans_back">
+                                            <h4>Taylor Swift</h4>
+                                            
+                                            <p>I am a Music Director, Singer...</p>
+                                            
+                                        </div>
+
+                                    </figcaption>
+                                </div>
+                            </div></div><div class="owl-item cloned" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="latest_hover">
+                                    <figure><img src="/images/Avishek.jpg" class="img-responsive" style="border-radius: 50%;" /></figure>
+                                    <figcaption>
+                                        <div class="date_time">
+                                            <ul>
+                                                <li class="date_m">13</li>
+                                                <li class="time_m">Dec</li>
+                                            </ul>
+                                        </div>
+
+                                        <div class="trans_back">
+                                            <h4>avishek10</h4>
+                                            
+                                            <p>This is test description</p>
+                                            
+                                        </div>
+
+                                    </figcaption>
+                                </div>
+                            </div></div><div class="owl-item active" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="latest_hover">
+                                    <figure><img src="/images/dummyImage.png" class="img-responsive" style="border-radius: 50%;" /></figure>
+                                    <figcaption>
+                                        <div class="date_time">
+                                            <ul>
+                                                <li class="date_m">18</li>
+                                                <li class="time_m">Dec</li>
+                                            </ul>
+                                        </div>
+
+                                        <div class="trans_back">
+                                            <h4>avishek16</h4>
+                                            
+                                            <p>This is test description</p>
+                                            
+                                        </div>
+
+                                    </figcaption>
+                                </div>
+                            </div></div><div class="owl-item" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="latest_hover">
+                                    <figure><img src="/images/TaylorSwift.jpg" class="img-responsive" style="border-radius: 50%;" /></figure>
+                                    <figcaption>
+                                        <div class="date_time">
+                                            <ul>
+                                                <li class="date_m">17</li>
+                                                <li class="time_m">Dec</li>
+                                            </ul>
+                                        </div>
+
+                                        <div class="trans_back">
+                                            <h4>Taylor Swift</h4>
+                                            
+                                            <p>I am a Music Director, Singer...</p>
+                                            
+                                        </div>
+
+                                    </figcaption>
+                                </div>
+                            </div></div><div class="owl-item" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="latest_hover">
+                                    <figure><img src="/images/Avishek.jpg" class="img-responsive" style="border-radius: 50%;" /></figure>
+                                    <figcaption>
+                                        <div class="date_time">
+                                            <ul>
+                                                <li class="date_m">13</li>
+                                                <li class="time_m">Dec</li>
+                                            </ul>
+                                        </div>
+
+                                        <div class="trans_back">
+                                            <h4>avishek10</h4>
+                                            
+                                            <p>This is test description</p>
+                                            
+                                        </div>
+
+                                    </figcaption>
+                                </div>
+                            </div></div><div class="owl-item cloned" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="latest_hover">
+                                    <figure><img src="/images/dummyImage.png" class="img-responsive" style="border-radius: 50%;" /></figure>
+                                    <figcaption>
+                                        <div class="date_time">
+                                            <ul>
+                                                <li class="date_m">18</li>
+                                                <li class="time_m">Dec</li>
+                                            </ul>
+                                        </div>
+
+                                        <div class="trans_back">
+                                            <h4>avishek16</h4>
+                                            
+                                            <p>This is test description</p>
+                                            
+                                        </div>
+
+                                    </figcaption>
+                                </div>
+                            </div></div><div class="owl-item cloned" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="latest_hover">
+                                    <figure><img src="/images/TaylorSwift.jpg" class="img-responsive" style="border-radius: 50%;" /></figure>
+                                    <figcaption>
+                                        <div class="date_time">
+                                            <ul>
+                                                <li class="date_m">17</li>
+                                                <li class="time_m">Dec</li>
+                                            </ul>
+                                        </div>
+
+                                        <div class="trans_back">
+                                            <h4>Taylor Swift</h4>
+                                            
+                                            <p>I am a Music Director, Singer...</p>
+                                            
+                                        </div>
+
+                                    </figcaption>
+                                </div>
+                            </div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><i class="fa fa-chevron-left"></i></button><button type="button" role="presentation" class="owl-next"><i class="fa fa-chevron-right"></i></button></div><div class="owl-dots disabled"></div></div>
+                <!--view all-->
+                <p class="vew_al"><a href="/TalentDirectory/">View All <span><i class="fa fa-angle-double-right"></i></span></a></p>
+            </div>
+
+            <!--SUCCESS STORIES-->
+            <div class="col-md-4 col-sm-4">
+                <div class="stories_part">
+                    <h2><span>REVIEWS</span></h2>
+                </div>
+
+                <!--slider-->
+                <div class="owl-carousel owl-theme owl-loaded owl-drag" id="review">
+                            
+                            
+                            
+
+                <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-740px, 0px, 0px); transition: all 0s ease 0s; width: 2590px;"><div class="owl-item cloned" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="review_slder">
+                                    <figure><img src="/images/TaylorSwift.jpg" class="img-responsive" style="border-radius: 50%;" /></figure>
+                                    <figcaption class="hm_rvw_rtng">                                        
+                                        <p>15th review.</p>
+                                        <p class="all_rvws_star">
+
+                                                    </p><div>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star"></span>
+                                                    </div>
+                                        <p></p>
+                                        <div class="posted"><span>Posted by:</span><label>Taylor Swift</label></div>
+                                    </figcaption>
+                                </div>
+                            </div></div><div class="owl-item cloned" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="review_slder">
+                                    <figure><img src="/images/TaylorSwift.jpg" class="img-responsive" style="border-radius: 50%;" /></figure>
+                                    <figcaption class="hm_rvw_rtng">                                        
+                                        <p>14th review.</p>
+                                        <p class="all_rvws_star">
+
+                                                    </p><div>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star"></span>
+                                                    </div>
+                                        <p></p>
+                                        <div class="posted"><span>Posted by:</span><label>Taylor Swift</label></div>
+                                    </figcaption>
+                                </div>
+                            </div></div><div class="owl-item active" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="review_slder">
+                                    <figure><img src="/images/TaylorSwift.jpg" class="img-responsive" style="border-radius: 50%;" /></figure>
+                                    <figcaption class="hm_rvw_rtng">                                        
+                                        <p>15th review.</p>
+                                        <p class="all_rvws_star">
+
+                                                    </p><div>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star"></span>
+                                                    </div>
+                                        <p></p>
+                                        <div class="posted"><span>Posted by:</span><label>Taylor Swift</label></div>
+                                    </figcaption>
+                                </div>
+                            </div></div><div class="owl-item" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="review_slder">
+                                    <figure><img src="/images/TaylorSwift.jpg" class="img-responsive" style="border-radius: 50%;" /></figure>
+                                    <figcaption class="hm_rvw_rtng">                                        
+                                        <p>15th review.</p>
+                                        <p class="all_rvws_star">
+
+                                                    </p><div>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star"></span>
+                                                    </div>
+                                        <p></p>
+                                        <div class="posted"><span>Posted by:</span><label>Taylor Swift</label></div>
+                                    </figcaption>
+                                </div>
+                            </div></div><div class="owl-item" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="review_slder">
+                                    <figure><img src="/images/TaylorSwift.jpg" class="img-responsive" style="border-radius: 50%;" /></figure>
+                                    <figcaption class="hm_rvw_rtng">                                        
+                                        <p>14th review.</p>
+                                        <p class="all_rvws_star">
+
+                                                    </p><div>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star"></span>
+                                                    </div>
+                                        <p></p>
+                                        <div class="posted"><span>Posted by:</span><label>Taylor Swift</label></div>
+                                    </figcaption>
+                                </div>
+                            </div></div><div class="owl-item cloned" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="review_slder">
+                                    <figure><img src="/images/TaylorSwift.jpg" class="img-responsive" style="border-radius: 50%;" /></figure>
+                                    <figcaption class="hm_rvw_rtng">                                        
+                                        <p>15th review.</p>
+                                        <p class="all_rvws_star">
+
+                                                    </p><div>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star"></span>
+                                                    </div>
+                                        <p></p>
+                                        <div class="posted"><span>Posted by:</span><label>Taylor Swift</label></div>
+                                    </figcaption>
+                                </div>
+                            </div></div><div class="owl-item cloned" style="width: 360px; margin-right: 10px;"><div class="item">
+                                <div class="review_slder">
+                                    <figure><img src="/images/TaylorSwift.jpg" class="img-responsive" style="border-radius: 50%;" /></figure>
+                                    <figcaption class="hm_rvw_rtng">                                        
+                                        <p>15th review.</p>
+                                        <p class="all_rvws_star">
+
+                                                    </p><div>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star checked"></span>
+                                                        <span class="fa fa-star"></span>
+                                                    </div>
+                                        <p></p>
+                                        <div class="posted"><span>Posted by:</span><label>Taylor Swift</label></div>
+                                    </figcaption>
+                                </div>
+                            </div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><i class="fa fa-chevron-left"></i></button><button type="button" role="presentation" class="owl-next"><i class="fa fa-chevron-right"></i></button></div><div class="owl-dots disabled"></div></div>
+
+                <!--view all-->
+                    <p class="vew_al wrte"><a href="/Login/" onclick="gotoReviewEntryPage('WriteAReview');">Write a review </a>
+                    <a href="/ReviewDetails/">View All <span><i class="fa fa-angle-double-right"></i></span></a>
+                    </p>
+            </div>
+        </div>
+    </div>
+</section>
+<!--all slider part-->
+
+<div class="modal fade" id="selectedOrNotModal" tabindex="-1" role="dialog" aria-labelledby="selectedOrNotModal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: orangered; color: whitesmoke;">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+                <div class="modal_txt" id="modelHeaderMsg"></div>
+            </div>
+            <div class="modal-body">
+                <div id="modelBodyMsg"></div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <script>
+
+        function getAllCountries() {
+            $.ajax({
+                method: "POST",
+                contentType: "application/json, charset=utf-8",
+                url: "/umbraco/Surface/TalentDirectory/GetAllCountries",
+                data: "{}",
+                success: function (result) {
+                    $.each(result, function (key, value) {
+                        $("#ddlCountry").append($("&lt;option&gt;&lt;/option&gt;").val(value.CountryName).html(value.CountryName));
+                    });
+                },
+                error: function (response) {
+                    //alert('Unable to Bind All Countries');
+                }
+           });
+        }
+
+        function getAllCitiesByCountry(CountryName) {
+            $.ajax({
+                method: "POST",
+                contentType: "application/json, charset=utf-8",
+                url: "/umbraco/Surface/TalentDirectory/GetAllCitiesByCountry",
+                data: "{CountryName: '" + CountryName + "'}",
+                success: function (result) {
+                    $("#ddlCity").html("");
+                    $("#ddlCity").append($("&lt;option&gt;&lt;/option&gt;").val(null).html("City"));
+                    $.each(result, function (key, value) {
+                        $("#ddlCity").append($("&lt;option&gt;&lt;/option&gt;").val(value.CityName).html(value.CityName));
+                    });
+                },
+                error: function (response) {
+                    //alert('Unable to Bind All Cities By Country');
+                }
+            });
+        }
+
+        function goToTalentDirectoryPage() {
+
+            var vSelectedCategory = $('#ddlCategory').find('option:selected').text().trim();
+            if (vSelectedCategory.trim().toUpperCase() == 'CATEGORY') {
+                showErrModalPopup('CATEGORY', 'Please choose a Category from dropdown');
+                $('#ddlCategory').focus();
+                return false;
+            }
+
+            var vSelectedCountry = $('#ddlCountry').find('option:selected').text().trim();
+            if (vSelectedCountry.trim().toUpperCase() == 'COUNTRY') {
+                showErrModalPopup('COUNTRY', 'Please choose a Country from dropdown');
+                $('#ddlCountry').focus();
+                return false;
+            }
+
+            var vSelectedCity = $('#ddlCity').find('option:selected').text().trim();
+            if (vSelectedCity.trim().toUpperCase() == 'CITY') {
+                showErrModalPopup('CITY', 'Please choose a City from dropdown');
+                $('#ddlCity').focus();
+                return false;
+            }
+
+            //Binding Selected Values into an Object
+            objDropdown = {};
+            objDropdown.Category = vSelectedCategory;
+            objDropdown.Country = vSelectedCountry;
+            objDropdown.City = vSelectedCity;
+            //objDropdown.Gender = vSelectedGender;
+
+            $.ajax({
+                method: "POST",
+                contentType: "application/json, charset=utf-8",
+                url: "/umbraco/Surface/Product/GetDropdownValues",
+                data: JSON.stringify(objDropdown),
+                success: function (result) {
+                    location.href = "/TalentDirectory/";
+                },
+                error: function (response) {
+                    //alert('Unable to Bind Selected Values');
+                }
+            });
+
+            return false;
+        }
+
+        function gotoTalentDirectoryPage2(directoryName) {
+            $.ajax({
+                method: "POST",
+                contentType: "application/json, charset=utf-8",
+                url: "/umbraco/Surface/Product/GetDirectoryValue",
+                data: "{directoryName: '" + directoryName + "'}",
+                success: function (result) {
+
+                },
+                error: function (response) {
+                    //alert('Unable to Get Directory Value');
+                }
+            });
+        }
+
+        function gotoReviewEntryPage(reviewValue) {
+            $.ajax({
+                method: "POST",
+                contentType: "application/json, charset=utf-8",
+                url: "/umbraco/Surface/Product/GetReviewValue",
+                data: "{reviewValue: '" + reviewValue + "'}",
+                success: function (result) {
+
+                },
+                error: function (response) {
+                    //alert('Unable to Get Review Value');
+                }
+            });            
+        }
+</script>
+
+    <script>
+        function vanishErrMsg() {
+            $('#lblErrMsg').text('');
+            $('#lblErrMsg').css('display', 'none');
+        }
+
+        function vanishEmailDOB() {
+            $('#lblErrMsgEmail').text('');
+            $('#lblErrMsgEmail').css('display', 'none');
+
+            $('#lblErrMsgDOB').text('');
+            $('#lblErrMsgDOB').css('display', 'none');
+        }
+
+        function showErrMsg(msgId, vMessage) {
+            $('#' + msgId).text(vMessage);
+            $('#' + msgId).css('display', 'table');
+        }
+
+        function showErrModalPopup(vHeaderMsg, vBodyMsg) {
+            $('#modelHeaderMsg').text(vHeaderMsg);
+            $('#modelBodyMsg').text(vBodyMsg);
+
+            $('#selectedOrNotModal').modal('show');
+        }
+
+        $('input[type="number"]').keypress(function (e) {
+            var a = [];
+            var k = e.which;
+
+            if (k == 8) { return } // to allow BackSpace
+
+            for (i = 48; i &lt; 58; i++)
+                a.push(i);
+
+            if (!(a.indexOf(k) &gt;= 0))
+                e.preventDefault();
+        });
+
+        function IsEmail(email) {
+            var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+            if (!regex.test(email))
+                return false;
+            else
+                return true;
+        }
+
+        $(document).ready(function () {
+            vanishErrMsg();
+        });
+
+        function checkEmail() {
+            if ($('#UserEmail').val().trim() == '') {
+                showErrMsg('lblErrMsg', 'No other field is accessible now without entering User Email.');
+                $('#UserEmail').focus();
+                return false;
+            }
+
+            var reg = /^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$/;
+            if (!reg.test($('#UserEmail').val().trim())) {
+                showErrMsg('lblErrMsg', 'Invalid User Email.');
+                $('#UserEmail').focus();
+                return false;
+            }
+        }
+
+        $("#btnSubmit").click(function () {
+
+            if ($('#ddlUserTypes').find('option:selected').text().trim() == 'Choose Your Option') {
+                showErrMsg('lblErrMsg', 'Please choose any User Type.');
+                $('#ddlUserTypes').focus();
+                return false;
+            }
+
+            if ($('#ddlCategories').find('option:selected').text().trim() == 'Choose Your Option') {
+                showErrMsg('lblErrMsg', 'Please choose any Category.');
+                $('#ddlCategories').focus();
+                return false;
+            }
+
+            if ($('#UserName').val().trim() == '') {
+                showErrMsg('lblErrMsg', 'User Name is required.');
+                $('#UserName').focus();
+                return false;
+            }
+
+            if ($('#UserPassword').val().trim() == '') {
+                showErrMsg('lblErrMsg', 'User Password is required.');
+                $('#UserPassword').focus();
+                return false;
+            }
+
+            if ($('#UserEmail').val().trim() == '') {
+                showErrMsg('lblErrMsg', 'No other field is accessible now without entering User Email.');
+                $('#UserEmail').focus();
+                return false;
+            }
+
+            if (!IsEmail($('#UserEmail').val().trim())) {
+                showErrMsg('lblErrMsg', 'Invalid User Email.');
+                $('#UserEmail').focus();
+                return false;
+            }
+
+            var vDayNo = $('#DayNo').val().trim();
+            if (vDayNo == '') {
+                showErrMsg('lblErrMsg', 'Valid Day Number is required.');
+                $('#DayNo').focus();
+                return false;
+            }
+            else {
+                var iDayNo = parseInt(vDayNo);
+                if (iDayNo &gt;= 1 &amp;&amp; iDayNo &lt;= 31) {
+
+                }
+                else {
+                    showErrMsg('lblErrMsg', 'Invalid Day Number.');
+                    $('#DayNo').focus();
+                    return false;
+                }
+            }
+
+            var vMonthNo = $('#MonthNo').val().trim();
+            if ($('#MonthNo').val().trim() == '') {
+                showErrMsg('lblErrMsg', 'Valid Month Number is required.');
+                $('#MonthNo').focus();
+                return false;
+            }
+            else {
+                var iMonthNo = parseInt(vMonthNo);
+                if (iMonthNo &gt;= 1 &amp;&amp; iMonthNo &lt;= 12) {
+
+                }
+                else {
+                    showErrMsg('lblErrMsg', 'Invalid Month Number.');
+                    $('#MonthNo').focus();
+                    return false;
+                }
+            }
+
+            var vYearNo = $('#YearNo').val().trim();
+            if ($('#YearNo').val().trim() == '') {
+                showErrMsg('lblErrMsg', 'Valid Year Number is required.');
+                $('#YearNo').focus();
+                return false;
+            }
+            else {
+                var iYearNo = parseInt(vYearNo);
+                if (iYearNo &gt;= 1980 &amp;&amp; iYearNo &lt;= 2099) {
+
+                }
+                else {
+                    showErrMsg('lblErrMsg', 'Invalid Year Number.');
+                    $('#YearNo').focus();
+                    return false;
+                }
+            }
+
+            showLoader();
+            $('h6').load(function () {
+                hideLoader();
+            });
+        });
+
+        function showLoader() {
+            $("#userDiv").show();
+
+            $("#loaderRegistrationText").show();
+            $("#successRegistrationText").hide();
+
+            $("#userImage").show();
+        }
+
+        function hideLoader() {
+            $("#userImage").hide();
+
+            $("#loaderRegistrationText").hide();
+            $("#successRegistrationText").show(2000);
+
+            $("#userDiv").hide();
+        }
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            $("#mnuHome").addClass("highlighted");
+            $("#miHome").addClass("active");
+
+            $(".register_now").click(function () {
+                $(".right_form_search").fadeToggle("3000");
+            });
+
+            var vOwnerEmail = '';
+            if (vOwnerEmail == '') {
+                loadClass();
+            }
+            else {
+                $("body").addClass('Home');
+                $("body").addClass('LoggedHome');
+            }
+
+            //New Functions added for Cascading
+            //====================================
+            getAllCountries();
+        });
+</script>
+
+;
+
+
+
+
+<!--send newsletter-->
+<section class="img_back_news">
+    <div class="container-fluid">
+        
+        <div class="serch_option">
+            
+            <figcaption>
+                <h4>Join Us For Updates </h4>
+                <div class="second_one">
+<div id="userDiv" style="display: none;">
+    <p id="loaderRegistrationText" class="loadingMSG">
+        Please wait while we confirm your subscription
+    </p>
+
+    <p id="successRegistrationText" class="loadingMSG">
+        <i class="fa fa-check" aria-hidden="true"></i>
+        You have subscribed with us successfully. Please check your email.
+    </p>
+
+    <i class="fa fa-spinner fa-spin fa-2x fa-fw load-icon loadingGF" id="userImage"></i>
+    <span class="sr-only">Loading...</span>
+</div>
+
+<div class="newsletter">
+    <div class="newsletter-form">
+        
+        <label id="lblSubscribeErrMsg" style="display: none;"></label>
+        <p id="pEmail">
+            <label for="txtEmail">
+                <span id="spEmail"></span>
+            </label>
+        </p>
+        <p id="pNewsBox"></p>
+        <div class="news_box">
+            <input type="text" id="txtEmailID" placeholder="E-mail here" onkeypress="hideSubscribeErrMsg(); hideOtherErrMsg();" />
+            <input type="button" id="btnSubmit" value="Subscribe" onclick="sendSubscriptionEmail();" />
+        </div>
+    </div>
+</div>
+
+<script>
+    function showErrMsg(msgId, vMessage) {
+        $('#' + msgId).text(vMessage);
+        $('#' + msgId).css('display', 'table');
+    }
+
+    function hideSubscribeErrMsg() {
+        $('#lblSubscribeErrMsg').text('');
+        $('#lblSubscribeErrMsg').css('display', 'none');
+    }
+
+    function hideOtherErrMsg() {
+        $('#spEmail').text('');
+        $('#pEmail').css('display', 'none');
+
+        $('#pNewsBox').text('');
+        $('#pNewsBox').css('display', 'none');
+    }
+
+    function IsEmail(email) {
+        var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+        if (!regex.test(email))
+            return false;
+        else
+            return true;
+    }
+
+    function checkTextBox() {
+        var vEmailID = $('#txtEmailID').val().trim();
+
+        hideOtherErrMsg();
+
+        if (vEmailID == "") {
+            showErrMsg('lblSubscribeErrMsg', 'Please enter your EmailID for Subscribe');
+            $('#txtEmailID').focus();
+            return false;
+        }
+
+        if (!IsEmail(vEmailID)) {
+            showErrMsg('lblSubscribeErrMsg', 'Please enter a Valid EmailID for Subscribe');
+            $('#txtEmailID').focus();
+            return false;
+        }
+
+        return true;
+    }
+
+    function showMessageInArea(spEmail, pNewsBox) {
+        $('#lblSubscribeErrMsg').text('');
+        $('#lblSubscribeErrMsg').css('display', 'none');
+
+        $('#spEmail').text(spEmail);
+        $('#spEmail').css('color', 'green');
+        $('#pEmail').css('display', 'block');
+
+        $('#txtEmailID').val('');
+        $('#txtEmailID').focus();
+
+        $('#pNewsBox').text(pNewsBox);
+        $('#pNewsBox').css('color', 'green');
+        $('#pNewsBox').css('display', 'block');
+
+        $("html, body").animate({ scrollTop: $(document).height() }, "slow");
+    }
+
+    function sendSubcriptionEmails(EmailID) {
+        $.ajax({
+            method: "POST",
+            contentType: "application/json; charset=utf-8",
+            url: "/umbraco/Surface/TalentDirectory/SendSubcriptionEmails",
+            data: "{ EmailID: '" + EmailID + "'}",
+            beforeSend: function () {
+                $("#userDiv").show();
+
+                $("#loaderRegistrationText").text('Please wait while we confirm your subscription');
+                $("#loaderRegistrationText").show();
+
+                $("#successRegistrationText").hide();
+
+                $("#userImage").show();
+            },
+            success: function (result) {
+                $("#userDiv").hide();
+                $("#loaderRegistrationText").hide();
+
+                $("#loaderRegistrationText").text('You have subscribed with us successfully. Please check your email.');
+                $("#successRegistrationText").show();
+
+                $("#userImage").hide();
+
+            },
+            error: function (response) {
+                $("#userDiv").hide();
+            }
+        });
+    }
+
+    function addSubscription() {
+        var EmailID = $('#txtEmailID').val().trim();
+
+        $.ajax({
+            method: "POST",
+            contentType: "application/json; charset=utf-8",
+            url: "/umbraco/Surface/TalentDirectory/AddSubscription",
+            data: "{EmailID: '" + EmailID + "'}",
+            success: function (result) {
+                //Updated Msg of Subscription
+                //============================================
+                var spEmail = "";
+                var pNewsBox = "";
+
+                if (result == 'false') {
+                    spEmail = "Thank you for Subscribing with us";
+                    pNewsBox = "You will get e-mail from us periodically";
+                    sendSubcriptionEmails(EmailID);
+                }
+                else {
+                    spEmail = "This Email ID already exists.";
+                    pNewsBox = "Try another.";
+                }
+
+                showMessageInArea(spEmail, pNewsBox);
+            },
+            error: function (response) {
+                //alert('Unable to Add Subscription');
+            }
+        });
+    }
+
+    function sendSubscriptionEmail() {
+        if (checkTextBox()) {
+            addSubscription();
+        }
+    }
+</script>
+                </div>
+            </figcaption>
+        </div>
+        
+    </div>
+</section>
+<!--send newsletter-->
+<!--staart fooetr-->
+<footer>
+    <section class="ftr">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-6">
+                    <div class="foter_header">
+                        <h2><span>CONTACT</span> US</h2>
+                        <div class="cntct_ftre">
+                            <ul>
+                                <li>
+                                    <label>EMAIL ID</label>
+                                    
+                                    <a href="mailto:nantha@roycermade.com"><span><i class="fa fa-envelope"></i></span>nantha@roycermade.com</a>
+                                </li>
+                                <li>
+                                    <label>CALL US</label>
+                                    
+                                    <a href="tel:+044 7949 3957"><span><i class="fa fa-phone"></i></span>044 7949 3957</a>
+                                </li>
+                                <li>
+                                    <label>ADDRESS</label>
+                                    
+                                    <p><span><i class="fa fa-map-marker"></i></span>London, United Kingdom</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="sitemap">
+                        <a href="/sitemap/">
+                            <i class="fa fa-sitemap" aria-hidden="true"></i>
+                            <span>Sitemap</span>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6">
+                    <div class="foter_header">
+                        <h2><span>USEFUL </span>LINKS</h2>
+                        <div class="cntct_ftre hme" id="myFootbar">
+                            <ul>
+                                <li id="miHome" class="active">
+                                    <a href="/"><span><i class="fa fa-angle-right"></i></span> HOME</a>
+                                </li>
+                                <li id="miAboutUs">
+                                    <a href="/AboutUs/"><span><i class="fa fa-angle-right"></i></span> ABOUT US</a>
+                                </li>
+                                <li id="miTalentDirectory">
+                                    <a href="/TalentDirectory/"><span><i class="fa fa-angle-right"></i></span> TALENT DIRECTORY</a>
+                                </li>
+                                <li id="miEmployeeList">
+                                    <a href="/EmployeeList/"><span><i class="fa fa-angle-right"></i></span> EMPLOYERS</a>
+                                </li>
+                                <li id="miAuditionJobs">
+                                    <a href="/AuditionJobs/"><span><i class="fa fa-angle-right"></i></span> AUDITION &amp; JOBS</a>
+                                </li>
+                                <li id="miContactUs">
+                                    <a href="/ContactUs/"><span><i class="fa fa-angle-right"></i></span> CONTACT US</a>
+                                </li>
+
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6">
+                    <div class="foter_header">
+                        <h2><span>RECENT </span>POSTS</h2>
+                        <div class="recnt_pst">                            
+                            <div class="list-wrpaaer" style="height: 280px; position: relative; overflow: hidden;">
+                                <ul class="list-aggregate" id="marquee-vertical" style="position: absolute; top: 0px; left: 0px; height: 1000%;">
+
+                                            <li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/dummyImage.png" /></figure>
+                                                    <figcaption>
+                                                        <p> Good Communication skills. Good Communication skil </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li>
+                                            <li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/dummyImage.png" /></figure>
+                                                    <figcaption>
+                                                        <p> Good Communication skills. Good Communication skil </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li>
+                                            <li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/KatyPerry_Image-03.jpg" /></figure>
+                                                    <figcaption>
+                                                        <p> This is fully a Model Job.. Both for Male and Fema </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li>
+                                            <li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/KatyPerry_Image-01.jpg" /></figure>
+                                                    <figcaption>
+                                                        <p> Need a Producer for my own Outdoor Location </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li>
+                                            <li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/TaylorSwift_Image-04.jpg" /></figure>
+                                                    <figcaption>
+                                                        <p> Need a Producer for my own Outdoor Location </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li>
+                                            <li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/TaylorSwift.jpg" /></figure>
+                                                    <figcaption>
+                                                        <p> Need Male Singers as Extra Artist for my Live Show </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li>
+                                            <li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/KatyPerry.jpg" /></figure>
+                                                    <figcaption>
+                                                        <p> Need Singers for my own Live Show </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li>
+                                            <li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/mr_nantha.png" /></figure>
+                                                    <figcaption>
+                                                        <p> Need Photographer for my own Fashion Show </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li>
+                                            <li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/JohnDoe.jpg" /></figure>
+                                                    <figcaption>
+                                                        <p> Need Guitarist for my own Band </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li>
+                                            <li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/TOMALTER.jpg" /></figure>
+                                                    <figcaption>
+                                                        <p> Need Actors for my own Production </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li>
+
+                                    
+                                <li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/dummyImage.png" /></figure>
+                                                    <figcaption>
+                                                        <p> Good Communication skills. Good Communication skil </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li><li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/dummyImage.png" /></figure>
+                                                    <figcaption>
+                                                        <p> Good Communication skills. Good Communication skil </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li><li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/KatyPerry_Image-03.jpg" /></figure>
+                                                    <figcaption>
+                                                        <p> This is fully a Model Job.. Both for Male and Fema </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li><li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/KatyPerry_Image-01.jpg" /></figure>
+                                                    <figcaption>
+                                                        <p> Need a Producer for my own Outdoor Location </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li><li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/TaylorSwift_Image-04.jpg" /></figure>
+                                                    <figcaption>
+                                                        <p> Need a Producer for my own Outdoor Location </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li><li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/TaylorSwift.jpg" /></figure>
+                                                    <figcaption>
+                                                        <p> Need Male Singers as Extra Artist for my Live Show </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li><li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/KatyPerry.jpg" /></figure>
+                                                    <figcaption>
+                                                        <p> Need Singers for my own Live Show </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li><li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/mr_nantha.png" /></figure>
+                                                    <figcaption>
+                                                        <p> Need Photographer for my own Fashion Show </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li><li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/JohnDoe.jpg" /></figure>
+                                                    <figcaption>
+                                                        <p> Need Guitarist for my own Band </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li><li>
+                                                <a class="clearfix" href="/AllPostedJobs/" onclick="gotoAllPostedJobsPage('AllPostedJobsValue');">
+                                                    <figure><img src="/PostAJobLogo/TOMALTER.jpg" /></figure>
+                                                    <figcaption>
+                                                        <p> Need Actors for my own Production </p>
+                                                    </figcaption>
+                                                </a>
+
+                                                
+                                            </li></ul>                               
+                            </div>
+                            <!--view all-->
+                            <p class="vew_al clearfix"><a href="/AllPostedJobs/">View All <span><i class="fa fa-angle-double-right"></i></span></a></p>
+                            <!--strat slider-->
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6">
+                    <div class="foter_header">
+                        <h2><span>OUR </span> AIM</h2>
+                        <div class="cntct_ftre">
+                            
+                            <p style="text-align: justify;">
+                                The academy's eLearning package of health courses provides more than just distance education. The graphics, animation and interactive features have been designed to engage people so that they can enjoy the learning experience. 
+                            </p>
+
+                            <div class="red_mre_ftr">
+                                <a href="javascript:void(0);" onclick="gotoAboutUsPage();"><span><i class="fa fa-angle-right"></i></span> read more</a>
+                                
+                                <hr class="hr_t" />
+                                <ul>
+                                                <li><a href="http://facebook.com" target="_blank"><i class="fa fa-facebook"></i> </a></li>
+                                                <li><a href="http://plus.google.com" target="_blank"><i class="fa fa-google-plus"></i> </a></li>
+                                                <li><a href="http://twitter.com" target="_blank"><i class="fa fa-twitter"></i> </a></li>
+                                                <li><a href="http://in.pinterest.com" target="_blank"><i class="fa fa-pinterest"></i> </a></li>
+
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="last_ftr">
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+</footer>
+<!--start footer-->
+<div class="modal fade" id="basicModal" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
+    <div class="modal-dialog join-md">
+        <div class="modal-content join-bg">
+            <div class="modal-header">
+                <div class="modal_txt">
+                    <h2><span>Sign</span>up to</h2>
+                </div>
+                <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button> -->
+            </div>
+            <div class="modal-body">
+                <ul>
+                    <li>
+                        <a style="background-color: whitesmoke;" href="/joinfree?RegType=Work">
+                        Find Work</a></li>
+                    <li>
+                        <a style="background-color: whitesmoke;" href="/joinfree?RegType=Talent">
+                        Find Talent</a></li>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function gotoAllPostedJobsPage(allPostedJobsValue) {
+        $.ajax({
+            method: "POST",
+            contentType: "application/json, charset=utf-8",
+            url: "/umbraco/Surface/ServiceDetails/GetAllPostedJobsValue",
+            data: "{allPostedJobsValue: '" + allPostedJobsValue + "'}",
+            success: function (result) {
+
+            },
+            error: function (response) {
+                //alert('Unable to Get Review Value');
+            }
+        });            
+    }
+
+    function gotoAboutUsPage() {
+        $.ajax({
+            method: "POST",
+            contentType: "application/json, charset=utf-8",
+            url: "/umbraco/Surface/ServiceDetails/GotoAboutUsPage",
+            data: "{}",
+            success: function (result) {
+                location.href = "/AboutUs/"
+            },
+            error: function (response) {
+                //alert('Unable to Get Review Value');
+            }
+        });            
+    }
+</script>
+
+<script type="text/javascript">
+		$(function(){
+			$('#vertical-ticker').totemticker({
+				start		:	true,
+				mousestop	:	true,
+			});
+		});
+</script>
+
+<script type="text/javascript">
+  $(function(){
+      $('#marquee-vertical').marquee();      
+});
+</script>
+
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="/js/jquery.min.js" type="text/javascript"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="/js/jquery-labelauty.js"></script>
+    <script src="/js/owl.carousel.min.js" type="text/javascript"></script>
+    <script src="/js/jquery.fancybox.min.js" type="text/javascript"></script>
+    <script>
+	$(function () {
+		$(".gal div").slice(0, 9).show();
+		$("#loadMore").on('click', function (e) {
+			e.preventDefault();
+			$(".gal div:hidden").slice(0, 3).slideDown();
+			if ($("div:hidden").length == 0) {
+				$("#load").fadeOut('slow');
+			}
+			$('html,body').animate({
+				scrollTop: $(this).offset().top
+			}, 300);
+		});
+
+	});
+
+	$('[data-fancybox="images"]').fancybox({
+	  thumbs : {
+		autoStart : true
+	  }
+	})
+    </script>
+    <script src="/js/main.js" type="text/javascript"></script>
+    <script src="/js/loadClass.js" type="text/javascript"></script>
+    <script src="/js/footerScroll.js" type="text/javascript"></script>
+    <script src="/js/jquery.marquee.js" type="text/javascript"></script>
+
+    <!--video-->
+    <script src="http://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+    <script src="http://vjs.zencdn.net/6.2.8/video.js"></script>
+    <script src="http://cdn.rawgit.com/davidstutz/bootstrap-multiselect/master/dist/js/bootstrap-multiselect.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.3/js/bootstrap.min.js"></script>
+
+    
+
+
+
+
+</body></html>
+Getting all links in home page--------------------
+All links found on web page are: 0 links
+Avishek
+E:\Avishek\SeleniumProjects\TopStar
+BEST TALENT HUNTER IN INDIA text is present
+Digital India text is present
+Avishek
+E:\Avishek\SeleniumProjects\TopStar
+User Name * text is present
+User Password * text is present
+User Email * text is present
+dd text is present
+mm text is present
+yyyy text is present
+REGISTER NOW button name is present
+check box is selected
+I agree to the Terms:  text is present
+PASSED: categoryButtons
+PASSED: generalChecking
+PASSED: homepagebanner
+PASSED: registration
+
+===============================================
+    Default test
+    Tests run: 4, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 4, Failures: 0, Skips: 0
+===============================================
+

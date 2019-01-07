@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SuiteCheckingFooterLinksCheckingHeaderLinks">
+
+
+
+
+<test name="CheckingFooterLinks">
+    <classes>
+        <class name="frontendFooterLinks.CheckingFooterLinks" ></class>  
+    </classes>
+    
+</test>
+
+<test name="CheckingHeaderLinks">
+    <classes>
+        <class name="frontendHeaderLinks.CheckingHeaderLinks" ></class>  
+    </classes>
+    
+</test>
+
+
+</suite>
