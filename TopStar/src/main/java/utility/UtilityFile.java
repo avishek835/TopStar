@@ -23,11 +23,12 @@ import com.relevantcodes.extentreports.ExtentTest;
 public class UtilityFile 
 {
 	private static File screenshotFile;
-	static ExtentTest test;
+	
 	
 	private Properties prop;
 	private FileInputStream ip;
 	
+	static ExtentTest test;
 	private static ExtentReports extent;
 	
 //	public static WebDriver Instance=null;
@@ -82,7 +83,8 @@ public class UtilityFile
 	
 	public static ExtentReports getInstance()
 	{
-		if(extent==null){
+		if(extent==null)
+		{
 			Date d=new Date();
 			String fileName=d.toString().replace(":","_").replace(" ","_")+".html";
 			extent=new ExtentReports("E:\\Avishek\\Report\\"+fileName, true, DisplayOrder.NEWEST_FIRST);
